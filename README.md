@@ -51,6 +51,8 @@
 
 ## Sơ đồ đấu nối dây (Pinout & Wiring)
 
+![Sơ đồ kết nối dây hệ thống Smart Plant IoT](wiring_diagram.png)
+
 ### 1. Bảng kết nối chân với NodeMCU ESP8266
 
 | Linh kiện | Chân linh kiện | Chân NodeMCU ESP8266 | Ghi chú |
@@ -235,5 +237,5 @@ graph TD
 ---
 
 ## Tài liệu tham khảo & Báo cáo
-- Báo cáo chi tiết đề tài: [`Báo cáo IoT- Nhóm 8.docx.pdf`](file:///c:/Users/Admin/Documents/Smart%20Plan%20IoT/B%C3%A1o%20c%C3%A1o%20IoT-%20Nh%C3%B3m%208.docx.pdf)
+- Báo cáo chi tiết đề tài: [`Báo cáo IoT- Nhóm 8.docx.pdf`](B%C3%A1o%20c%C3%A1o%20IoT-%20Nh%C3%B3m%208.docx.pdf)
 - Nền tảng Blynk IoT Documentation: [https://docs.blynk.io/](https://docs.blynk.io/)
